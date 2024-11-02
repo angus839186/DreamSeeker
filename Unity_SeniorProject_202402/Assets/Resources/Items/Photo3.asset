@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f20cca95aa059c74ea9e908fd4e45d24, type: 3}
+  m_Name: Photo3
+  m_EditorClassIdentifier: 
+  itemName: "\u7167\u72473"
+  description: "\u7238\u7238\u6559\u6211\u5F48\u92FC\u7434\u7684\u7167\u7247,\u770B\u5230\u6709\u7A2E\u56DE\u61B6\u6162\u6162\u6E67\u4E0A\u7684\u611F\u89BA"
+  itemSprite: {fileID: -311205983, guid: e1aa4498a5d8a834383b5abfdd8bf78c, type: 3}
+  canRemove: 0
+  existsInScene: 0

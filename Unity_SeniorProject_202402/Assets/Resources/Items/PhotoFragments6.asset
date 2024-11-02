@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f20cca95aa059c74ea9e908fd4e45d24, type: 3}
+  m_Name: PhotoFragments6
+  m_EditorClassIdentifier: 
+  itemName: "\u7167\u7247\u788E\u72476"
+  description: "\u7834\u788E\u7684\u7167\u7247,\u9700\u8981\u627E\u5176\u4ED6\u7684\u788E\u7247\u5408\u8D77\u4F86,\u624D\u77E5\u9053\u7167\u7247\u5167\u5BB9"
+  itemSprite: {fileID: -1286867402, guid: e36f0f561ed465f4785d8cb2b05ffd6c, type: 3}
+  canRemove: 0
+  existsInScene: 0

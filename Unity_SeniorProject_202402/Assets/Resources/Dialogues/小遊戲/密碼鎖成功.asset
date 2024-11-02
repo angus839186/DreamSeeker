@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c746386442614df4c9cf58c401bb50ca, type: 3}
+  m_Name: "\u5BC6\u78BC\u9396\u6210\u529F"
+  m_EditorClassIdentifier: 
+  _partOfDialogue:
+  - _dialogues:
+      _dialogueText:
+      - "\u88E1\u9762\u6709\u4E00\u672C\u65E5\u8A18\u53CA\u4E00\u628A\u9470\u5319"
+      - "\u6211\u9019\u9EBC\u52AA\u529B\u7DAD\u6301\u9019\u500B\u5BB6,\u70BA\u4EC0\u9EBC\u63DB\u4F86\u7684\u662F\u4E08\u592B\u7684\u5916\u9047"
+      - "\u70BA\u4E86\u8B93\u6211\u5011\u7684\u5B69\u5B50\u6709\u5B8C\u6574\u7684\u5BB6,\u6211\u9078\u64C7\u4E0D\u7C3D\u96E2\u5A5A\u5354\u8B70\u66F8\u662F\u5C0D\u7684\u55CE\u2026"
+      _images:
+      - {fileID: -88434016, guid: 45605cc9b99142c4e9ccefafc639154f, type: 3}
+      - {fileID: -88434016, guid: 45605cc9b99142c4e9ccefafc639154f, type: 3}
+      - {fileID: -88434016, guid: 45605cc9b99142c4e9ccefafc639154f, type: 3}
