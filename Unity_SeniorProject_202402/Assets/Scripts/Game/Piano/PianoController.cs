@@ -16,6 +16,7 @@ namespace MUI
 
         public Dialogues _Dialogues;
         public GameObject Photo7_Hint;
+        public GameObject Photo9_Hint;
 
 
 
@@ -31,6 +32,7 @@ namespace MUI
                 ItemManager.instance.TakeItem("PhotoFragments8"); 
                 Invoke("ClosePiano", 2f);
                 Photo7_Hint.SetActive(true);
+                Photo9_Hint.SetActive(true);
             }
             else
             {
